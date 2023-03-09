@@ -3,10 +3,11 @@
 ## Team
 
  - **Showri Niharika Yeruva**
- - **Sowmya reddy Kasireddy**
+ - **Sowmya Kasireddy**
  - **Hari Krishna Edvalapati**
 
 
 ## Professor 
 
    **Muhammad Ali Yousuf**
+   
